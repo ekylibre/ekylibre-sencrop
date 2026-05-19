@@ -1,0 +1,6 @@
+---
+cmn:
+  labels:
+    sencrop_short_description: "地块互联气象站"
+    sencrop_long_description: Sencrop提供互联农业气象站（雨量、温度、湿度、风速）
+    sencrop_url: https://www.sencrop.com

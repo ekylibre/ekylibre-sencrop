@@ -1,0 +1,7 @@
+---
+fra:
+  labels:
+    sencrop_short_description: Stations météo connectées à la parcelle
+    sencrop_long_description: Sencrop fournit des stations météo agricoles connectées
+      (pluie, température, hygrométrie, vent)
+    sencrop_url: https://www.sencrop.com

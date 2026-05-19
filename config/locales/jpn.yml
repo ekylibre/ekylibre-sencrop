@@ -1,0 +1,6 @@
+---
+jpn:
+  labels:
+    sencrop_short_description: "圃場向け接続型気象観測所"
+    sencrop_long_description: Sencropは、接続型の農業気象観測所（雨量、気温、湿度、風）を提供します
+    sencrop_url: https://www.sencrop.com

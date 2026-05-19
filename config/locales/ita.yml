@@ -1,0 +1,7 @@
+---
+ita:
+  labels:
+    sencrop_short_description: Stazioni meteorologiche connesse per parcelle
+    sencrop_long_description: Sencrop fornisce stazioni meteorologiche agricole connesse
+      (pioggia, temperatura, umidità, vento)
+    sencrop_url: https://www.sencrop.com

@@ -1,0 +1,7 @@
+---
+eng:
+  labels:
+    sencrop_short_description: Connected weather stations for parcels
+    sencrop_long_description: Sencrop provides connected agricultural weather stations
+      (rain, temperature, humidity, wind)
+    sencrop_url: https://www.sencrop.com

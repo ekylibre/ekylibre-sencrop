@@ -1,0 +1,7 @@
+---
+deu:
+  labels:
+    sencrop_short_description: Vernetzte Wetterstationen für Parzellen
+    sencrop_long_description: Sencrop liefert vernetzte landwirtschaftliche Wetterstationen
+      (Regen, Temperatur, Luftfeuchtigkeit, Wind)
+    sencrop_url: https://www.sencrop.com

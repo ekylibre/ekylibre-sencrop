@@ -1,0 +1,7 @@
+---
+spa:
+  labels:
+    sencrop_short_description: Estaciones meteorológicas conectadas para parcelas
+    sencrop_long_description: Sencrop proporciona estaciones meteorológicas agrícolas
+      conectadas (lluvia, temperatura, humedad, viento)
+    sencrop_url: https://www.sencrop.com
