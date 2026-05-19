@@ -1,0 +1,2 @@
+# ekylibre-sencrop
+Sencrop plugin
